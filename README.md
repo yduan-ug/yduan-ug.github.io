@@ -11,4 +11,5 @@ My portfolio website built with github page
 ## Inspiration Taken from These Reference
 1.  https://github.com/leerob/leerob.io?tab=readme-ov-file
 2. https://github.com/varadbhogayata/varadbhogayata.github.io
+## Thanks
 Thank you for your reading. If you have any feedback for this website, please click "Contact me". Please leave a ⭐ if you like it!
