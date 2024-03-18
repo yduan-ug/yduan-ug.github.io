@@ -1,5 +1,5 @@
-# yduan.io
-My portfolio website built with github page
+# Description
+My portfolio website built with github pages
 ## Techstack
 - Framework: React, Boostrap
 <!-- Since it's deployed on github pages (a static website),  there is no need to connect a database here. -->
